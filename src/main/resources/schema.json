@@ -1,0 +1,10 @@
+{
+  "first_name": "string",
+  "last_name": "string",
+  "location": "string",
+  "websites": [
+    {
+      "description": "work",
+      "URL": "https://www.digitalocean.com/"
+    }]
+}
